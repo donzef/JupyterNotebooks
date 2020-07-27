@@ -1,0 +1,12 @@
+{
+    "NumericThresholds": {
+        "LowerCritical": {
+        "DwellTime": "PT0S",
+            "Reading": 0
+        },
+        "UpperCritical": {
+        "DwellTime": "PT0S",
+            "Reading": 0
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Destination": "https://balt/RedfishEvents/EventReceiver.php",
+    "EventTypes": [
+    "StatusChange",
+    "ResourceUpdated",
+    "ResourceAdded",
+    "ResourceRemoved",
+    "Alert"
+    ],
+    "Context": "Public"
+}

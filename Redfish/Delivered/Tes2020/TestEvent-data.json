@@ -1,0 +1,10 @@
+{
+  "EventType": "ResourceAdded",
+  "EventID": "myEventId",
+  "EventTimestamp": "top-of-the-hour",
+  "Severity": "OK",
+  "Message": "This is a test message",
+  "MessageID": "iLOEvents.0.9.ResourceStatusChanged",
+  "MessageArgs": [ "arg0", "arg1" ],
+  "OriginOfCondition": "/redfish/v1/Chassis/1/FooBar"
+}
